@@ -18,5 +18,5 @@ qualifications and education, an objective and personal statement, achievements,
 
 
 ## Find my work here:
- [My work](https://gemahonesta.github.io/My-cv/index.html)
+ [My work](https://gemahonesta.github.io/My-cv/)
 
